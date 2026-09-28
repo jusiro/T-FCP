@@ -1,2 +1,2 @@
-# T-FCP
-[NeurIPS'26] Scaling Full Conformal Image Classifiers
+# Scaling Full Conformal Classifiers
+Code coming soon!
