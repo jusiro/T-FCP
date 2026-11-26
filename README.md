@@ -1,11 +1,11 @@
 ## Scaling Full Conformal Image Classifiers.
 
-The official implementation of *Targeted Full Conformal Prediction*, a conformal procedure that enables scaling full conformal strategies to large label spaces in image classification, thereby improving efficiency and coverage stability.<br/>
+The official implementation of *Targeted Full Conformal Prediction*, a conformal procedure that scales full conformal strategies to large label spaces in image classification, improving efficiency and coverage stability.<br/>
 📜 <span style="color:violet">*Conference on Neural Information Processing Systems (NeurIPS)*</span> \
 [Julio Silva-Rodríguez](https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl) ⋅
 [Ender Konukoglu<sup>](https://scholar.google.es/citations?user=OeEMrhQAAAAJ&hl) <br/>
 Computer Vision Lab, ETH Zürich.<br/>
-[ [Manuscript](https://arxiv.org/pdf/2609.37298) ] -- [ [OpenReview](https://openreview.net/forum?id=pwt7abXpU8) ] 
+[ [Manuscript](https://arxiv.org/pdf/2609.37298) ] [ [OpenReview](https://openreview.net/forum?id=pwt7abXpU8) ] 
 <br/>
 
 
